@@ -51,7 +51,7 @@ namespace PLC点位_IO测试系统软件
             this.label1.Font = new System.Drawing.Font("楷体", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.Location = new System.Drawing.Point(182, 50);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(288, 64);
+            this.label1.Size = new System.Drawing.Size(287, 64);
             this.label1.TabIndex = 0;
             this.label1.Text = "登录界面";
             // 
@@ -126,7 +126,7 @@ namespace PLC点位_IO测试系统软件
             this.label4.Location = new System.Drawing.Point(9, 7);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(168, 16);
+            this.label4.Size = new System.Drawing.Size(167, 16);
             this.label4.TabIndex = 7;
             this.label4.Text = "I/O点位测试软件-V1.0";
             // 
@@ -137,7 +137,7 @@ namespace PLC点位_IO测试系统软件
             this.label5.Location = new System.Drawing.Point(444, 9);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(192, 16);
+            this.label5.Size = new System.Drawing.Size(191, 16);
             this.label5.TabIndex = 8;
             this.label5.Text = "管理员Admin 密码 123456";
             // 
@@ -148,7 +148,7 @@ namespace PLC点位_IO测试系统软件
             this.label6.Location = new System.Drawing.Point(410, 162);
             this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(240, 64);
+            this.label6.Size = new System.Drawing.Size(239, 64);
             this.label6.TabIndex = 9;
             this.label6.Text = "测试时 键盘输入\r\n用户名(任意)应为测试人员姓名 \r\n认真填写 生成报表时至关重要\r\n点位测试密码统一为 123";
             // 
@@ -165,12 +165,12 @@ namespace PLC点位_IO测试系统软件
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(280, 433);
+            this.linkLabel1.Location = new System.Drawing.Point(321, 421);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(221, 12);
+            this.linkLabel1.Size = new System.Drawing.Size(167, 12);
             this.linkLabel1.TabIndex = 11;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "关于 此软件测试说明及源代码 密码1234";
+            this.linkLabel1.Text = "关于 此软件测试说明及源代码";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // linkLabel2
