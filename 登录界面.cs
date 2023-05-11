@@ -110,7 +110,7 @@ namespace PLC点位_IO测试系统软件
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://wangyan.pip51.cn:15001/d/s/sqCnz7Xc1ZpNP6khnaXhACw5MCS352QS/YDaBrILrugScTI50t-vAj8Hb1u6F1vJz-KbVgaEqKTQo");
+            System.Diagnostics.Process.Start("https://github.com/123Nice321/PLC-IO-test.git");
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
