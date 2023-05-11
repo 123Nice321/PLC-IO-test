@@ -165,12 +165,12 @@ namespace PLC点位_IO测试系统软件
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(321, 421);
+            this.linkLabel1.Location = new System.Drawing.Point(376, 429);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(167, 12);
+            this.linkLabel1.Size = new System.Drawing.Size(107, 12);
             this.linkLabel1.TabIndex = 11;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "关于 此软件测试说明及源代码";
+            this.linkLabel1.Text = "关于 此软件源代码";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // linkLabel2
